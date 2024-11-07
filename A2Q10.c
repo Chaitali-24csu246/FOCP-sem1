@@ -1,6 +1,5 @@
 //ASSIGNMENT 2 Q10 COUNT PRIME NUMBERS IN AN ARRAY
 #include <stdio.h>
-//COUNT PRIME NUMBERS IN AN ARRAY
 int takearray(int arr[], int n){
     int i;
     for(i=0;i<n;i++){
